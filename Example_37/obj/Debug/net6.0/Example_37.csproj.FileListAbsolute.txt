@@ -1,0 +1,15 @@
+/Users/kirillzaostrovskikh/Desktop/Seminar 5/Example_37/obj/Debug/net6.0/Example_37.csproj.AssemblyReference.cache
+/Users/kirillzaostrovskikh/Desktop/Seminar 5/Example_37/obj/Debug/net6.0/Example_37.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillzaostrovskikh/Desktop/Seminar 5/Example_37/obj/Debug/net6.0/Example_37.AssemblyInfoInputs.cache
+/Users/kirillzaostrovskikh/Desktop/Seminar 5/Example_37/obj/Debug/net6.0/Example_37.AssemblyInfo.cs
+/Users/kirillzaostrovskikh/Desktop/Seminar 5/Example_37/obj/Debug/net6.0/Example_37.csproj.CoreCompileInputs.cache
+/Users/kirillzaostrovskikh/Desktop/Seminar 5/Example_37/bin/Debug/net6.0/Example_37
+/Users/kirillzaostrovskikh/Desktop/Seminar 5/Example_37/bin/Debug/net6.0/Example_37.deps.json
+/Users/kirillzaostrovskikh/Desktop/Seminar 5/Example_37/bin/Debug/net6.0/Example_37.runtimeconfig.json
+/Users/kirillzaostrovskikh/Desktop/Seminar 5/Example_37/bin/Debug/net6.0/Example_37.dll
+/Users/kirillzaostrovskikh/Desktop/Seminar 5/Example_37/bin/Debug/net6.0/Example_37.pdb
+/Users/kirillzaostrovskikh/Desktop/Seminar 5/Example_37/obj/Debug/net6.0/Example_37.dll
+/Users/kirillzaostrovskikh/Desktop/Seminar 5/Example_37/obj/Debug/net6.0/refint/Example_37.dll
+/Users/kirillzaostrovskikh/Desktop/Seminar 5/Example_37/obj/Debug/net6.0/Example_37.pdb
+/Users/kirillzaostrovskikh/Desktop/Seminar 5/Example_37/obj/Debug/net6.0/Example_37.genruntimeconfig.cache
+/Users/kirillzaostrovskikh/Desktop/Seminar 5/Example_37/obj/Debug/net6.0/ref/Example_37.dll
