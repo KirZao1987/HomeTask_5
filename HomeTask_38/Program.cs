@@ -1,7 +1,7 @@
 ﻿void InputArray(double[] array)
 {
     for (int i = 0; i < array.Length; i++)
-      array[i] = new Random().Next(1, 100);
+      array[i] = Math.Round(new Random().NextDouble() *(100 - 1) + 10, 2);
 }
 double max = array[0];
 double min = array[0];
